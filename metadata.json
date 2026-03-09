@@ -1,0 +1,5 @@
+{
+  "name": "Meijer AI Control Tower (ACT)",
+  "description": "Financial and operational guardrail system for labor variance analysis and vendor dispute recovery.",
+  "requestFramePermissions": []
+}
